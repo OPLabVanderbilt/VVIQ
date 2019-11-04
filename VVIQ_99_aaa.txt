@@ -1,0 +1,9 @@
+
+99	aaa
+prompt	item	rt	rating
+Think of some relative or friend whom you frequently see (but is not with you at present).	The exact contour of face, head, shoulders, and body.	1.617111e+03	3
+Think of some relative or friend whom you frequently see (but is not with you at present).	Characteristic poses of head, attitudes of body, etc.	1.461981e+03	3
+Think of some relative or friend whom you frequently see (but is not with you at present).	The precise gait, length of step, etc., in walking.	1.233241e+03	4
+Think of some relative or friend whom you frequently see (but is not with you at present).	The different colors worn in some familiar clothes.	1.021491e+03	2
+Visualize a rising sun.	The sun is rising above the horizon into a hazy sky.	1.001278e+03	4
+Visualize a rising sun.	The sky clears and surrounds the sun with blueness.	1.009026e+03	2
